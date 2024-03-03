@@ -15,6 +15,8 @@ if(flag==1):
 elif(flag==0):
     print("Not a prime");
 
+print("Garauv")
+
 
 
     # HAlvddedededede
