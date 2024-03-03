@@ -8,10 +8,15 @@ if(num>1):
             flag=0
         
 else:
+    print("Invalid");
 
 if(flag==1):
     print("prime");
 elif(flag==0):
     print("Not a prime");
+
+
+
+    # HAlvddedededede
 
 
